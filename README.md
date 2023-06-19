@@ -34,12 +34,10 @@ Home page :
 ![search](https://user-images.githubusercontent.com/57690392/125941227-275ba900-738a-4464-8232-fa7942030125.png)
 ![signup](https://user-images.githubusercontent.com/57690392/125941246-f68f4bdb-41a1-4599-8deb-1eebc525bba9.png)
 ![login](https://user-images.githubusercontent.com/57690392/125941250-fac6f9ab-fcbf-4dff-af11-aeaf290d17fe.png)
-![EDITProfile](https://user-images.githubusercontent.com/57690392/125941271-57c28887-c93b-427e-9d66-1c63b4d3095b.png)
 ![adminNavbar](https://user-images.githubusercontent.com/57690392/125941276-c40174fa-d4b3-48d3-848c-4365ff5043ca.png)
 ![totalcustomers](https://user-images.githubusercontent.com/57690392/125941283-576a01a8-6f08-4276-a9ac-2674c2a73aec.png)
 ![totalorders](https://user-images.githubusercontent.com/57690392/125941286-e66c634f-0665-4fb6-9e0f-7caf6f906fed.png)
 ![totalproducts](https://user-images.githubusercontent.com/57690392/125941289-749c39bb-c9ba-43a5-adbb-dcf63ac0a04e.png)
-![totalcustomersTable](https://user-images.githubusercontent.com/57690392/125941306-b3672fa8-14ff-4045-bb48-c48f34039047.png)
 ![recentorders](https://user-images.githubusercontent.com/57690392/125941311-7105dfd3-7b32-453c-839d-acd61bdfb859.png)
 
 ![productListADmin](https://user-images.githubusercontent.com/57690392/125941356-9602a776-2f38-4b19-bc25-a5f2fb364ad0.png)
